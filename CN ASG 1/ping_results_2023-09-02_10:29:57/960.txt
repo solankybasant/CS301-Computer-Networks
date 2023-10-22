@@ -1,0 +1,10 @@
+PING google.com (172.217.27.206) 960(988) bytes of data.
+76 bytes from bom07s15-in-f14.1e100.net (172.217.27.206): icmp_seq=1 ttl=59 (truncated)
+76 bytes from bom07s15-in-f14.1e100.net (172.217.27.206): icmp_seq=2 ttl=59 (truncated)
+76 bytes from bom07s15-in-f14.1e100.net (172.217.27.206): icmp_seq=3 ttl=59 (truncated)
+76 bytes from bom07s15-in-f14.1e100.net (172.217.27.206): icmp_seq=4 ttl=59 (truncated)
+76 bytes from bom07s15-in-f14.1e100.net (172.217.27.206): icmp_seq=5 ttl=59 (truncated)
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 21.124/21.862/22.705/0.572 ms

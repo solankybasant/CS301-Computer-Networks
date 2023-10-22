@@ -1,0 +1,10 @@
+PING google.com (142.250.193.206) 448(476) bytes of data.
+76 bytes from del11s17-in-f14.1e100.net (142.250.193.206): icmp_seq=1 ttl=59 (truncated)
+76 bytes from del11s17-in-f14.1e100.net (142.250.193.206): icmp_seq=2 ttl=59 (truncated)
+76 bytes from del11s17-in-f14.1e100.net (142.250.193.206): icmp_seq=3 ttl=59 (truncated)
+76 bytes from del11s17-in-f14.1e100.net (142.250.193.206): icmp_seq=4 ttl=59 (truncated)
+76 bytes from del11s17-in-f14.1e100.net (142.250.193.206): icmp_seq=5 ttl=59 (truncated)
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 40.445/42.198/44.200/1.567 ms

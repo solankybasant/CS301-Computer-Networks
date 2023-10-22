@@ -1,0 +1,6 @@
+PING google.com (172.217.166.46) 1472(1500) bytes of data.
+From 74.125.48.137 (74.125.48.137) icmp_seq=1 Frag needed and DF set (mtu = 1486)
+
+--- google.com ping statistics ---
+5 packets transmitted, 0 received, +1 errors, 100% packet loss, time 4079ms
+
