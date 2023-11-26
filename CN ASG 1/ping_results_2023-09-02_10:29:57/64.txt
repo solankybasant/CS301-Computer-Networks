@@ -1,0 +1,10 @@
+PING google.com (142.251.42.110) 64(92) bytes of data.
+72 bytes from bom07s45-in-f14.1e100.net (142.251.42.110): icmp_seq=1 ttl=59 time=22.6 ms
+72 bytes from bom07s45-in-f14.1e100.net (142.251.42.110): icmp_seq=2 ttl=59 time=25.8 ms
+72 bytes from bom07s45-in-f14.1e100.net (142.251.42.110): icmp_seq=3 ttl=59 time=24.7 ms
+72 bytes from bom07s45-in-f14.1e100.net (142.251.42.110): icmp_seq=4 ttl=59 time=26.3 ms
+72 bytes from bom07s45-in-f14.1e100.net (142.251.42.110): icmp_seq=5 ttl=59 time=66.8 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 22.629/33.235/66.797/16.828 ms
